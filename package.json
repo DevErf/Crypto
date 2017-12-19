@@ -1,0 +1,14 @@
+{
+  "name": "cryptocurrency",
+  "version": "1.0.0",
+  "description": "\"This project is to get updated about cryptocurrencies exchange rate.\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erfan",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/cli": "^1.6.1"
+  }
+}
